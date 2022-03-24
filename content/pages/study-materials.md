@@ -9,7 +9,7 @@ Papers
 
 Chan, Tony, and Henk A. Van der Vorst. "[Approximate and Incomplete Factorizations](https://doi.org/10.1007/978-94-011-5412-3_6)."
 
-Benzi, M., G. H. Golub, and J. Liesen. "Numerical Solution of Saddle Point Problems." _Acta Numerica_ 14 (2005): 1-137. (To appear.) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0 MB](http://www.mathcs.emory.edu/~benzi/Web_papers/bgl05.pdf))
+Benzi, M., G. H. Golub, and J. Liesen. "Numerical Solution of Saddle Point Problems." _Acta Numerica_ 14 (2005): 1-137. (To appear.) ([PDF - 1.0 MB](http://www.mathcs.emory.edu/~benzi/Web_papers/bgl05.pdf))
 
 MATLAB® Documentation
 ---------------------
